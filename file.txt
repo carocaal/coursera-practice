@@ -1,1 +1,7 @@
 HELLO WOW I'M A FILE.
+
+1. touch file.txt //* Voy a trabajar con este archivo
+2. git add <file>… //* Sobre este archivo voy a marcar
+3. git commit -m "nombre del marcador" //*crear marcador
+
+git remote -v = list your remote connections
